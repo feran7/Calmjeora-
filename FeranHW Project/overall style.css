@@ -1,0 +1,67 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
+body {
+    background-color:rgb(240, 148, 231);
+    color: rgb(1, 12, 2);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.calm {
+    color: rgb(58, 17, 172);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin-left: -10px;
+}
+
+
+
+.contact {
+    color: white;
+    margin-left: -20px;
+    text-decoration: underline;
+    text-decoration-color: rgb(78, 86, 207);
+    text-decoration-thickness: 2px;
+}
+
+div {
+    display: inline;
+    font-size: 18px;
+    padding: 25px;
+}
+
+
+h1 {
+    padding: 1px;
+    text-align: center;
+}
+
+
+h2 {
+    font-weight: lighter;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
+}
+
+header {
+    background-image: url(images/HBG.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 290px;
+}
+
+
+ul {
+    background-color: rgb(27, 24, 24);
+    color: white;
+    font-size: 20px;
+    list-style-type: none;
+}
